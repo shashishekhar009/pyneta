@@ -26,7 +26,6 @@ Print tn.read_all()
 
 Print tn.read_all()
 
-Print tn.read_all()
 
-Print tn.read_all()
+
 
